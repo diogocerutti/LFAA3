@@ -10,6 +10,7 @@ h1 {
   margin-bottom: 2px;
   justify-content: space-between;
   display: flex;
+  text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
 }
   #resetBtn {
     vertical-align: middle;
